@@ -19,16 +19,20 @@ export const Container = styled.div<ContainerProps>`
     nav {
       a {
         color: #fff;
+        opacity: 0.8;
         text-decoration: none;
         font-size: 16px;
-        transition: opacity 0.2s;
+        border-bottom: 2px solid transparent;
+        padding: 0 0 5px 0;
+        transition: all 0.2s;
 
         & + a {
           margin-left: 32px;
         }
 
         &:hover {
-          opacity: 0.6;
+          opacity: 1;
+          border-bottom: 2px solid #ff872c;
         }
       }
     }
