@@ -6,8 +6,8 @@
 <img src="https://img.shields.io/badge/tests-100%25-brightgreen"/>
 </p>
 <p align="center">
-<img src="https://github.com/leoskrr/GoFinances_Web/blob/master/.github/screenshots/gw-01.png" width=500/>
-<img src="https://github.com/leoskrr/GoFinances_Web/blob/master/.github/screenshots/gw-02.png" width=500/>
+<img src="https://github.com/leoskrr/GoFinances_Web/blob/master/.github/screenshots/gw-01.png" width=720/>
+<img src="https://github.com/leoskrr/GoFinances_Web/blob/master/.github/screenshots/gw-02.png" width=720/>
 
 </p>
 
