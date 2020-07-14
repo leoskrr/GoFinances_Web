@@ -30,7 +30,7 @@ Essa aplicação foi construída durante o bootcamp GoStack 12 da <a href="https
 </p>
 
 <p align="center">
-    <img alt="app gif" src=".github/example.gif" width="250px" />
+    <img alt="app gif" src=".github/example.gif" width="1000px" />
 </p>
 
 
